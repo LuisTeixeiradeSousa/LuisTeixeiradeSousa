@@ -1,14 +1,14 @@
 # Hello, I'm Luís
-<a href="inserirlinkedin" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate in Criminology with a profound interest in cybersecurity and a dedication to solving complex problems.
+I am a recent graduate in Criminology with a profound interest in Cybersecurity and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Criminology has led me to develop a passion for understanding cybercrime and ultimately to the defense against it: cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or to the Governance, Risk and Compliance (GRC) field. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -20,7 +20,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+| GRC ISO/IEC 27001                             | ...               |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]

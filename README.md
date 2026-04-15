@@ -8,7 +8,7 @@ I am a recent graduate in Criminology with a profound interest in Cybersecurity 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in Criminology has led me to develop a passion for understanding cybercrime and ultimately to the defense against it: cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or to the Governance, Risk and Compliance (GRC) field. 
+My journey in Criminology has led me to develop a passion for understanding cybercrime and inevitably to the defense against it: Cybersecurity. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, or to the Governance, Risk and Compliance (GRC) field. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]

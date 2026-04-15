@@ -57,5 +57,5 @@ My journey in Criminology has led me to develop a passion for understanding cybe
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://google.com">Detection Lab</a>
 - SOC Automation Project

@@ -54,6 +54,13 @@ My journey in Criminology has led me to develop a passion for understanding cybe
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-SIEM%20%26%20Log%20Analysis-4CAF50?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Incident%20Response-FF9800?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Python%20%7C%20SQL%20%7C%20Linux-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-IDS%20%26%20Packet%20Analysis-9C27B0?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Security%20Frameworks%20%28NIST%2C%20Controls%29-607D8B?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Threats%2C%20Risks%20%26%20Vulnerabilities-D32F2F?&style=for-the-badge" />
 </div>
 
 ## Projects
